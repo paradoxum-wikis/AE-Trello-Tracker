@@ -1220,8 +1220,88 @@
           "uses": 17
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "690e64ed33ce407e0d7b5760",
+      "attachments": [
+        {
+          "id": "690e64ed33ce407e0d7b5760",
+          "bytes": 585092,
+          "date": "2025-11-07T21:30:21.870Z",
+          "edgeColor": null,
+          "idMember": "5c258d998c34ec43bbcc0ba9",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "bman-goner-teaser.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576a/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576a",
+              "id": "690e64ef33ce407e0d7b576a",
+              "scaled": false,
+              "bytes": 438,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576b/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576b",
+              "id": "690e64ef33ce407e0d7b576b",
+              "scaled": false,
+              "bytes": 2062,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576c/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576c",
+              "id": "690e64ef33ce407e0d7b576c",
+              "scaled": true,
+              "bytes": 2092,
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576d/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576d",
+              "id": "690e64ef33ce407e0d7b576d",
+              "scaled": true,
+              "bytes": 6874,
+              "height": 300,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576e/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576e",
+              "id": "690e64ef33ce407e0d7b576e",
+              "scaled": true,
+              "bytes": 21354,
+              "height": 600,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b576f/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b576f",
+              "id": "690e64ef33ce407e0d7b576f",
+              "scaled": true,
+              "bytes": 56378,
+              "height": 1200,
+              "width": 1200
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/previews/690e64ef33ce407e0d7b5770/download/bman-goner-teaser.webp",
+              "_id": "690e64ef33ce407e0d7b5770",
+              "id": "690e64ef33ce407e0d7b5770",
+              "scaled": true,
+              "bytes": 70086,
+              "height": 1300,
+              "width": 1300
+            }
+          ],
+          "url": "https://trello.com/1/cards/68ffc8bf0924d302f3309806/attachments/690e64ed33ce407e0d7b5760/download/bman-goner-teaser.png",
+          "pos": 140737488355328,
+          "fileName": "bman-goner-teaser.png"
+        }
+      ],
       "url": "https://trello.com/c/TwzA2NkA/4-survivor-b-man",
       "closed": false
     },
@@ -1674,5 +1754,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-07T21:27:56.555Z"
+  "lastCheck": "2025-11-07T21:37:15.660Z"
 }
