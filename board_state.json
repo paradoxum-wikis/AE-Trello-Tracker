@@ -920,86 +920,77 @@
           "uses": 15
         }
       ],
-      "idAttachmentCover": "6900e75f1d1e279ec6f3d777",
+      "idAttachmentCover": "690f9b6c4449fee258fcbc88",
       "attachments": [
         {
-          "id": "6900e75f1d1e279ec6f3d777",
-          "bytes": 1742669,
-          "date": "2025-10-28T15:55:11.895Z",
-          "edgeColor": "#747474",
-          "idMember": "68715b4889b4a7ff28099462",
+          "id": "690f9b6c4449fee258fcbc88",
+          "bytes": 441679,
+          "date": "2025-11-08T19:35:08.479Z",
+          "edgeColor": "#1d1e1e",
+          "idMember": "5c258d998c34ec43bbcc0ba9",
           "isMalicious": false,
           "isUpload": true,
           "mimeType": "image/png",
-          "name": "Animal_Hoodie (Noob).png",
+          "name": "image.png",
           "previews": [
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d781/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d781",
-              "id": "6900e7621d1e279ec6f3d781",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd88/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd88",
+              "id": "690f9b6d4449fee258fcbd88",
               "scaled": false,
-              "bytes": 840,
+              "bytes": 1438,
               "height": 50,
               "width": 70
             },
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d782/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d782",
-              "id": "6900e7621d1e279ec6f3d782",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd89/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd89",
+              "id": "690f9b6d4449fee258fcbd89",
               "scaled": false,
-              "bytes": 5694,
+              "bytes": 8218,
               "height": 150,
               "width": 250
             },
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d783/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d783",
-              "id": "6900e7621d1e279ec6f3d783",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8a/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8a",
+              "id": "690f9b6d4449fee258fcbd8a",
               "scaled": true,
-              "bytes": 2506,
-              "height": 77,
+              "bytes": 4248,
+              "height": 93,
               "width": 150
             },
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d784/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d784",
-              "id": "6900e7621d1e279ec6f3d784",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8b/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8b",
+              "id": "690f9b6d4449fee258fcbd8b",
               "scaled": true,
-              "bytes": 7700,
-              "height": 154,
-              "width": 299
+              "bytes": 11118,
+              "height": 187,
+              "width": 300
             },
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d785/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d785",
-              "id": "6900e7621d1e279ec6f3d785",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8c/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8c",
+              "id": "690f9b6d4449fee258fcbd8c",
               "scaled": true,
-              "bytes": 22224,
-              "height": 309,
+              "bytes": 29656,
+              "height": 373,
               "width": 600
             },
             {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d786/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d786",
-              "id": "6900e7621d1e279ec6f3d786",
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8d/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8d",
+              "id": "690f9b6d4449fee258fcbd8d",
               "scaled": true,
-              "bytes": 56508,
-              "height": 618,
-              "width": 1200
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/previews/6900e7621d1e279ec6f3d787/download/Animal_Hoodie_%28Noob%29.webp",
-              "_id": "6900e7621d1e279ec6f3d787",
-              "id": "6900e7621d1e279ec6f3d787",
-              "scaled": true,
-              "bytes": 212114,
-              "height": 1563,
-              "width": 3035
+              "bytes": 50534,
+              "height": 567,
+              "width": 912
             }
           ],
-          "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/6900e75f1d1e279ec6f3d777/download/Animal_Hoodie_(Noob).png",
+          "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/download/image.png",
           "pos": 140737488355328,
-          "fileName": "Animal_Hoodie_(Noob).png"
+          "fileName": "image.png"
         }
       ],
       "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
@@ -1140,8 +1131,79 @@
           "uses": 15
         }
       ],
-      "idAttachmentCover": null,
-      "attachments": [],
+      "idAttachmentCover": "690f9aecc444702075327dd6",
+      "attachments": [
+        {
+          "id": "690f9aecc444702075327dd6",
+          "bytes": 546980,
+          "date": "2025-11-08T19:33:00.441Z",
+          "edgeColor": "#585857",
+          "idMember": "5c258d998c34ec43bbcc0ba9",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de0/download/image.webp",
+              "_id": "690f9aedc444702075327de0",
+              "id": "690f9aedc444702075327de0",
+              "scaled": false,
+              "bytes": 616,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de1/download/image.webp",
+              "_id": "690f9aedc444702075327de1",
+              "id": "690f9aedc444702075327de1",
+              "scaled": false,
+              "bytes": 3194,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de2/download/image.webp",
+              "_id": "690f9aedc444702075327de2",
+              "id": "690f9aedc444702075327de2",
+              "scaled": true,
+              "bytes": 3696,
+              "height": 167,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de3/download/image.webp",
+              "_id": "690f9aedc444702075327de3",
+              "id": "690f9aedc444702075327de3",
+              "scaled": true,
+              "bytes": 9460,
+              "height": 333,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de4/download/image.webp",
+              "_id": "690f9aedc444702075327de4",
+              "id": "690f9aedc444702075327de4",
+              "scaled": true,
+              "bytes": 21272,
+              "height": 667,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/previews/690f9aedc444702075327de5/download/image.webp",
+              "_id": "690f9aedc444702075327de5",
+              "id": "690f9aedc444702075327de5",
+              "scaled": true,
+              "bytes": 34532,
+              "height": 1008,
+              "width": 907
+            }
+          ],
+          "url": "https://trello.com/1/cards/68ffc8aa60c932bb272919eb/attachments/690f9aecc444702075327dd6/download/image.png",
+          "pos": 140737488355328,
+          "fileName": "image.png"
+        }
+      ],
       "url": "https://trello.com/c/E2WYtRAw/3-ego-conquest",
       "closed": false
     },
@@ -1754,5 +1816,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-08T19:30:04.486Z"
+  "lastCheck": "2025-11-08T19:39:43.229Z"
 }
