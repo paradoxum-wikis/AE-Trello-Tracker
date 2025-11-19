@@ -350,7 +350,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         },
         {
           "id": "68ffb0f747088dd37de7a68c",
@@ -368,7 +368,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
           "color": "red",
-          "uses": 1
+          "uses": 6
         },
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -697,7 +697,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6900e69b0468fe5212018f0e",
@@ -786,23 +786,13 @@
       "closed": false
     },
     "690253a9de0ede3e37dc4f97": {
-      "name": "Round Balancing",
+      "name": "Chase Gamemode",
       "desc": "- Extend round timer\n- Add 1-2 extra generators\n- Bloodlust intermission before gates open\n- Redo generator placement nodes to support more randomized generator types during layout selection",
       "idList": "68ffb54696bf79a49703f522",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
-        }
-      ],
+      "labels": [],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/gcRfumSk/34-round-balancing",
+      "url": "https://trello.com/c/gcRfumSk/34-chase-gamemode",
       "closed": false
     },
     "68ffcadaa2d81eeae1e17aad": {
@@ -817,32 +807,12 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/sFm2SBVL/6-hack-minigame",
-      "closed": false
-    },
-    "6900da70a4966cd3483a161f": {
-      "name": "Console Compatibility",
-      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
-      "idList": "68ffb54696bf79a49703f522",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68c",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
-          "color": "orange",
-          "uses": 4
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
       "closed": false
     },
     "6900da801bd7b0e82cee0c1a": {
@@ -857,7 +827,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -877,7 +847,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -905,117 +875,6 @@
       "url": "https://trello.com/c/O1lpwWdf/13-improved-mobile-ux",
       "closed": false
     },
-    "68ffcaa422a4a38344101be3": {
-      "name": "Sols Shop",
-      "desc": "Information coming soon…",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
-        }
-      ],
-      "idAttachmentCover": "690f9b6c4449fee258fcbc88",
-      "attachments": [
-        {
-          "id": "690f9b6c4449fee258fcbc88",
-          "bytes": 441679,
-          "date": "2025-11-08T19:35:08.479Z",
-          "edgeColor": "#1d1e1e",
-          "idMember": "5c258d998c34ec43bbcc0ba9",
-          "isMalicious": false,
-          "isUpload": true,
-          "mimeType": "image/png",
-          "name": "image.png",
-          "previews": [
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd88/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd88",
-              "id": "690f9b6d4449fee258fcbd88",
-              "scaled": false,
-              "bytes": 1438,
-              "height": 50,
-              "width": 70
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd89/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd89",
-              "id": "690f9b6d4449fee258fcbd89",
-              "scaled": false,
-              "bytes": 8218,
-              "height": 150,
-              "width": 250
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8a/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd8a",
-              "id": "690f9b6d4449fee258fcbd8a",
-              "scaled": true,
-              "bytes": 4248,
-              "height": 93,
-              "width": 150
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8b/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd8b",
-              "id": "690f9b6d4449fee258fcbd8b",
-              "scaled": true,
-              "bytes": 11118,
-              "height": 187,
-              "width": 300
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8c/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd8c",
-              "id": "690f9b6d4449fee258fcbd8c",
-              "scaled": true,
-              "bytes": 29656,
-              "height": 373,
-              "width": 600
-            },
-            {
-              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8d/download/image.webp",
-              "_id": "690f9b6d4449fee258fcbd8d",
-              "id": "690f9b6d4449fee258fcbd8d",
-              "scaled": true,
-              "bytes": 50534,
-              "height": 567,
-              "width": 912
-            }
-          ],
-          "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/download/image.png",
-          "pos": 140737488355328,
-          "fileName": "image.png"
-        }
-      ],
-      "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
-      "closed": false
-    },
-    "69012519d5c6d6f486d400a6": {
-      "name": "Roster Progression",
-      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
-      "closed": false
-    },
     "68ffc8a4d110a79f487409f6": {
       "name": "Ego: The Maw",
       "desc": "Commander’s Ego: **The Maw**.\n\nFocused on disbanding groups of survivors rather than a singular target. The Maw can control the labyrinth and turn the tide of a match - survivors will have to adapt their playstyle to survive.",
@@ -1028,7 +887,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
         }
       ],
       "idAttachmentCover": "69025c50b7da04567773d0ad",
@@ -1116,9 +975,9 @@
       "url": "https://trello.com/c/qSxNPzcV/2-ego-the-maw",
       "closed": false
     },
-    "68ffc8aa60c932bb272919eb": {
-      "name": "Ego: Conquest",
-      "desc": "Information coming soon…",
+    "6900e436218d9132b0599602": {
+      "name": "Map Consumables",
+      "desc": "Our first step in the long-term vision of consumables in Alter Ego; consumables are limited-use items that give players a temporary boost or advantage during matches.",
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
@@ -1128,7 +987,158 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 13
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
+      "closed": false
+    },
+    "6900da70a4966cd3483a161f": {
+      "name": "Console Compatibility",
+      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68c",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
+          "color": "orange",
+          "uses": 4
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
+      "closed": false
+    },
+    "68ffcaa422a4a38344101be3": {
+      "name": "Sols Shop",
+      "desc": "Information coming soon…",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68d",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 6
+        }
+      ],
+      "idAttachmentCover": "690f9b6c4449fee258fcbc88",
+      "attachments": [
+        {
+          "id": "690f9b6c4449fee258fcbc88",
+          "bytes": 441679,
+          "date": "2025-11-08T19:35:08.479Z",
+          "edgeColor": "#1d1e1e",
+          "idMember": "5c258d998c34ec43bbcc0ba9",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd88/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd88",
+              "id": "690f9b6d4449fee258fcbd88",
+              "scaled": false,
+              "bytes": 1438,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd89/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd89",
+              "id": "690f9b6d4449fee258fcbd89",
+              "scaled": false,
+              "bytes": 8218,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8a/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8a",
+              "id": "690f9b6d4449fee258fcbd8a",
+              "scaled": true,
+              "bytes": 4248,
+              "height": 93,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8b/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8b",
+              "id": "690f9b6d4449fee258fcbd8b",
+              "scaled": true,
+              "bytes": 11118,
+              "height": 187,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8c/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8c",
+              "id": "690f9b6d4449fee258fcbd8c",
+              "scaled": true,
+              "bytes": 29656,
+              "height": 373,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/previews/690f9b6d4449fee258fcbd8d/download/image.webp",
+              "_id": "690f9b6d4449fee258fcbd8d",
+              "id": "690f9b6d4449fee258fcbd8d",
+              "scaled": true,
+              "bytes": 50534,
+              "height": 567,
+              "width": 912
+            }
+          ],
+          "url": "https://trello.com/1/cards/68ffcaa422a4a38344101be3/attachments/690f9b6c4449fee258fcbc88/download/image.png",
+          "pos": 140737488355328,
+          "fileName": "image.png"
+        }
+      ],
+      "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
+      "closed": false
+    },
+    "69012519d5c6d6f486d400a6": {
+      "name": "Roster Progression",
+      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68d",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 6
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
+      "closed": false
+    },
+    "68ffc8aa60c932bb272919eb": {
+      "name": "Ego: Conquest",
+      "desc": "Information coming soon…",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68d",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 6
         }
       ],
       "idAttachmentCover": "690f9aecc444702075327dd6",
@@ -1213,13 +1223,13 @@
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68a",
+          "id": "68ffb0f747088dd37de7a68d",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
@@ -1233,38 +1243,18 @@
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68a",
+          "id": "68ffb0f747088dd37de7a68d",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 6
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/zhrNC8kz/24-taunts",
-      "closed": false
-    },
-    "6900e436218d9132b0599602": {
-      "name": "Map Consumables",
-      "desc": "Our first step in the long-term vision of consumables in Alter Ego; consumables are limited-use items that give players a temporary boost or advantage during matches.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
       "closed": false
     },
     "68ffc8bf0924d302f3309806": {
@@ -1798,6 +1788,10 @@
       "name": "On Track",
       "color": "green"
     },
+    "68ffb0f747088dd37de7a68d": {
+      "name": "Delayed",
+      "color": "red"
+    },
     "68ffb0f747088dd37de7a68c": {
       "name": "Running Behind",
       "color": "orange"
@@ -1805,10 +1799,6 @@
     "68ffb0f747088dd37de7a68f": {
       "name": "Shipped",
       "color": "blue"
-    },
-    "68ffb0f747088dd37de7a68d": {
-      "name": "Delayed",
-      "color": "red"
     }
   },
   "board": {
@@ -1816,5 +1806,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-19T19:53:50.698Z"
+  "lastCheck": "2025-11-19T20:11:07.677Z"
 }
