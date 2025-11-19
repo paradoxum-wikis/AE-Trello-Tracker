@@ -1508,7 +1508,7 @@
       "closed": false
     },
     "691e2627d2b4c29dde695811": {
-      "name": "Chase Gamemode (Gamemode Rework)",
+      "name": "Objective Gamemode (Gamemode Rework)",
       "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Core Concept:**\n\nA cooperative survival mode centered around completing all objectives to escape.\n\n**Mechanics:**\n\n- **Primary Win Condition:** Survivors must complete **all tasks** to open the exit gates.\n\n- If any tasks remain incomplete when time expires, **survivors lose**.\n\n- Stamina System: Both survivors and killers have infinite stamina\n\n- Endgame Condition: If only one survivor remains, escape hatches become available.\n\n- Visibility Parity: Killers and survivors share equal visibility",
       "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
@@ -1524,7 +1524,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/v2P8NpXg/37-chase-gamemode-gamemode-rework",
+      "url": "https://trello.com/c/v2P8NpXg/37-objective-gamemode-gamemode-rework",
       "closed": false
     }
   },
@@ -1836,5 +1836,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-19T20:29:41.971Z"
+  "lastCheck": "2025-11-19T20:40:24.307Z"
 }
