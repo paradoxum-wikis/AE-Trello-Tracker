@@ -485,26 +485,6 @@
       "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
       "closed": false
     },
-    "6900da9f51173f1b0acd0c54": {
-      "name": "Inventory UX Improvements",
-      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 17
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
-      "closed": false
-    },
     "6900daa2d34c1fa8a4df15ef": {
       "name": "Ragdolls",
       "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
@@ -523,6 +503,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
+      "closed": false
+    },
+    "6900da9f51173f1b0acd0c54": {
+      "name": "Inventory UX Improvements",
+      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
+      "idList": "68ffc73110fc73f008ab2eec",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 17
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
       "closed": false
     },
     "6900dab8a3eda9692a6493e4": {
@@ -583,26 +583,6 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/J05M3gH6/22-map",
-      "closed": false
-    },
-    "6900e2e0d2eed3e08ab09164": {
-      "name": "Lag Compensation",
-      "desc": "",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68f",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Shipped",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
-          "color": "blue",
-          "uses": 3
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
       "closed": false
     },
     "69012035b2d3a1dfe9a4fa1d": {
@@ -683,6 +663,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/y6HyKpCC/35-ego-transformation-animation",
+      "closed": false
+    },
+    "6900e2e0d2eed3e08ab09164": {
+      "name": "Lag Compensation",
+      "desc": "",
+      "idList": "68ffc73110fc73f008ab2eec",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68f",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
+          "color": "blue",
+          "uses": 3
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
       "closed": false
     },
     "68ffc8a30a1f0039e00f398f": {
@@ -996,6 +996,26 @@
       "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
       "closed": false
     },
+    "69012519d5c6d6f486d400a6": {
+      "name": "Roster Progression",
+      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 13
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
+      "closed": false
+    },
     "68ffc8a4d110a79f487409f6": {
       "name": "Ego: The Maw",
       "desc": "Commander’s Ego: **The Maw**.\n\nFocused on disbanding groups of survivors rather than a singular target. The Maw can control the labyrinth and turn the tide of a match - survivors will have to adapt their playstyle to survive.",
@@ -1187,26 +1207,6 @@
       "url": "https://trello.com/c/E2WYtRAw/3-ego-conquest",
       "closed": false
     },
-    "69012519d5c6d6f486d400a6": {
-      "name": "Roster Progression",
-      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 13
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
-      "closed": false
-    },
     "6900dcd918b7ac4ac81b0e75": {
       "name": "Emotes",
       "desc": "Express yourself further with emotes! Show off against Egos in-game or dance with friends in the lobby.",
@@ -1387,26 +1387,6 @@
       "url": "https://trello.com/c/crKytmk3/26-character-leveling",
       "closed": false
     },
-    "690125d5133eade90c717fba": {
-      "name": "More Survivors",
-      "desc": "",
-      "idList": "68ffca9a28f29fdf39559bb1",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 17
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/31ukQpkv/27-more-survivors",
-      "closed": false
-    },
     "690126f23530a2b56ebf3ec1": {
       "name": "Character Inventory",
       "desc": "",
@@ -1425,6 +1405,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/HSJPF1Do/31-character-inventory",
+      "closed": false
+    },
+    "690125d5133eade90c717fba": {
+      "name": "More Survivors",
+      "desc": "",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 17
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/31ukQpkv/27-more-survivors",
       "closed": false
     },
     "690125d8736f0b352751b217": {
@@ -1816,5 +1816,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-19T02:21:55.011Z"
+  "lastCheck": "2025-11-19T03:30:12.939Z"
 }
