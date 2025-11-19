@@ -800,7 +800,7 @@
           "uses": 8
         }
       ],
-      "idAttachmentCover": null,
+      "idAttachmentCover": "",
       "attachments": [],
       "url": "https://trello.com/c/sFm2SBVL/6-hack-minigame",
       "closed": false
@@ -1836,5 +1836,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-19T22:37:05.884Z"
+  "lastCheck": "2025-11-19T22:46:02.654Z"
 }
