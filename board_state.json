@@ -800,8 +800,88 @@
           "uses": 8
         }
       ],
-      "idAttachmentCover": "",
-      "attachments": [],
+      "idAttachmentCover": "691ec41c7b4bbc2dc2cea325",
+      "attachments": [
+        {
+          "id": "691ec41c7b4bbc2dc2cea325",
+          "bytes": 238112,
+          "date": "2025-11-20T07:32:44.425Z",
+          "edgeColor": "#647282",
+          "idMember": "68769bffc3c94a99e1fefc40",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "Hacking.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea331/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea331",
+              "id": "691ec41c7b4bbc2dc2cea331",
+              "scaled": false,
+              "bytes": 1256,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea332/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea332",
+              "id": "691ec41c7b4bbc2dc2cea332",
+              "scaled": false,
+              "bytes": 4434,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea333/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea333",
+              "id": "691ec41c7b4bbc2dc2cea333",
+              "scaled": true,
+              "bytes": 3330,
+              "height": 121,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea334/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea334",
+              "id": "691ec41c7b4bbc2dc2cea334",
+              "scaled": true,
+              "bytes": 7502,
+              "height": 242,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea335/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea335",
+              "id": "691ec41c7b4bbc2dc2cea335",
+              "scaled": true,
+              "bytes": 16982,
+              "height": 485,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea336/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea336",
+              "id": "691ec41c7b4bbc2dc2cea336",
+              "scaled": true,
+              "bytes": 35222,
+              "height": 970,
+              "width": 1200
+            },
+            {
+              "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/previews/691ec41c7b4bbc2dc2cea337/download/Hacking.webp",
+              "_id": "691ec41c7b4bbc2dc2cea337",
+              "id": "691ec41c7b4bbc2dc2cea337",
+              "scaled": true,
+              "bytes": 40238,
+              "height": 1138,
+              "width": 1408
+            }
+          ],
+          "url": "https://trello.com/1/cards/68ffcadaa2d81eeae1e17aad/attachments/691ec41c7b4bbc2dc2cea325/download/Hacking.png",
+          "pos": 140737488355328,
+          "fileName": "Hacking.png"
+        }
+      ],
       "url": "https://trello.com/c/sFm2SBVL/6-hack-minigame",
       "closed": false
     },
@@ -1836,5 +1916,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-20T07:19:52.926Z"
+  "lastCheck": "2025-11-20T07:33:04.128Z"
 }
