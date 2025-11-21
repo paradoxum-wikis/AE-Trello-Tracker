@@ -350,7 +350,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         },
         {
           "id": "68ffb0f747088dd37de7a68c",
@@ -359,7 +359,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
           "color": "orange",
-          "uses": 4
+          "uses": 5
         },
         {
           "id": "68ffb0f747088dd37de7a68d",
@@ -368,7 +368,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
           "color": "red",
-          "uses": 6
+          "uses": 1
         },
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -386,103 +386,12 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/gtfkf0GX/19-%F0%9F%8E%A8-labels",
-      "closed": false
-    },
-    "6900da7abdd75c6e6e2a8ff6": {
-      "name": "Lobby NPCs",
-      "desc": "Interactable characters to bring more life and story into Alter Ego. These NPCs will give players a chance to explore the lore and worldbuilding of our game - making downtime more engaging between matches.\n\nOver time, we’ll be able to expand this system and update our characters to reflect new events, storylines, and signaling future updates, allowing the Labyrinth to grow alongside the game itself.",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68c",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
-          "color": "orange",
-          "uses": 4
-        }
-      ],
-      "idAttachmentCover": "69010643d95b2db4d6ceaf29",
-      "attachments": [
-        {
-          "id": "69010643d95b2db4d6ceaf29",
-          "bytes": 860148,
-          "date": "2025-10-28T18:06:59.469Z",
-          "edgeColor": "#545454",
-          "idMember": "68715b4889b4a7ff28099462",
-          "isMalicious": false,
-          "isUpload": true,
-          "mimeType": "image/png",
-          "name": "image.png",
-          "previews": [
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3a/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3a",
-              "id": "69010645d95b2db4d6ceaf3a",
-              "scaled": false,
-              "bytes": 676,
-              "height": 50,
-              "width": 70
-            },
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3b/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3b",
-              "id": "69010645d95b2db4d6ceaf3b",
-              "scaled": false,
-              "bytes": 3514,
-              "height": 150,
-              "width": 250
-            },
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3c/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3c",
-              "id": "69010645d95b2db4d6ceaf3c",
-              "scaled": true,
-              "bytes": 3980,
-              "height": 163,
-              "width": 150
-            },
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3d/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3d",
-              "id": "69010645d95b2db4d6ceaf3d",
-              "scaled": true,
-              "bytes": 11590,
-              "height": 325,
-              "width": 300
-            },
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3e/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3e",
-              "id": "69010645d95b2db4d6ceaf3e",
-              "scaled": true,
-              "bytes": 29084,
-              "height": 651,
-              "width": 600
-            },
-            {
-              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3f/download/image.webp",
-              "_id": "69010645d95b2db4d6ceaf3f",
-              "id": "69010645d95b2db4d6ceaf3f",
-              "scaled": true,
-              "bytes": 54470,
-              "height": 1145,
-              "width": 1056
-            }
-          ],
-          "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/download/image.png",
-          "pos": 140737488355328,
-          "fileName": "image.png"
-        }
-      ],
-      "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
       "closed": false
     },
     "6900daa2d34c1fa8a4df15ef": {
@@ -497,7 +406,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
           "color": "orange",
-          "uses": 4
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -517,7 +426,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -537,7 +446,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -557,7 +466,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -577,7 +486,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -597,7 +506,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -617,7 +526,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -637,7 +546,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -657,7 +566,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -697,7 +606,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": "6900e69b0468fe5212018f0e",
@@ -797,7 +706,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": "691ec41c7b4bbc2dc2cea325",
@@ -897,32 +806,12 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
-      "closed": false
-    },
-    "6900da9626f170f14545bbc2": {
-      "name": "Status Effect System Revamp",
-      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
-      "idList": "68ffb54696bf79a49703f522",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
       "closed": false
     },
     "6900daaa8fca5e894c37443f": {
@@ -957,7 +846,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": "69025c50b7da04567773d0ad",
@@ -1057,7 +946,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
@@ -1077,12 +966,32 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 8
+          "uses": 7
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
+      "closed": false
+    },
+    "6900da9626f170f14545bbc2": {
+      "name": "Status Effect System Revamp",
+      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68c",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
+          "color": "orange",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
       "closed": false
     },
     "6900da70a4966cd3483a161f": {
@@ -1097,7 +1006,7 @@
           "name": "Running Behind",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
           "color": "orange",
-          "uses": 4
+          "uses": 5
         }
       ],
       "idAttachmentCover": null,
@@ -1105,19 +1014,110 @@
       "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
       "closed": false
     },
-    "68ffcaa422a4a38344101be3": {
-      "name": "Sols Shop",
-      "desc": "Information coming soon…",
+    "6900da7abdd75c6e6e2a8ff6": {
+      "name": "Lobby NPCs",
+      "desc": "Interactable characters to bring more life and story into Alter Ego. These NPCs will give players a chance to explore the lore and worldbuilding of our game - making downtime more engaging between matches.\n\nOver time, we’ll be able to expand this system and update our characters to reflect new events, storylines, and signaling future updates, allowing the Labyrinth to grow alongside the game itself.",
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68d",
+          "id": "68ffb0f747088dd37de7a68c",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
-          "color": "red",
-          "uses": 6
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
+          "color": "orange",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": "69010643d95b2db4d6ceaf29",
+      "attachments": [
+        {
+          "id": "69010643d95b2db4d6ceaf29",
+          "bytes": 860148,
+          "date": "2025-10-28T18:06:59.469Z",
+          "edgeColor": "#545454",
+          "idMember": "68715b4889b4a7ff28099462",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3a/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3a",
+              "id": "69010645d95b2db4d6ceaf3a",
+              "scaled": false,
+              "bytes": 676,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3b/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3b",
+              "id": "69010645d95b2db4d6ceaf3b",
+              "scaled": false,
+              "bytes": 3514,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3c/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3c",
+              "id": "69010645d95b2db4d6ceaf3c",
+              "scaled": true,
+              "bytes": 3980,
+              "height": 163,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3d/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3d",
+              "id": "69010645d95b2db4d6ceaf3d",
+              "scaled": true,
+              "bytes": 11590,
+              "height": 325,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3e/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3e",
+              "id": "69010645d95b2db4d6ceaf3e",
+              "scaled": true,
+              "bytes": 29084,
+              "height": 651,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/previews/69010645d95b2db4d6ceaf3f/download/image.webp",
+              "_id": "69010645d95b2db4d6ceaf3f",
+              "id": "69010645d95b2db4d6ceaf3f",
+              "scaled": true,
+              "bytes": 54470,
+              "height": 1145,
+              "width": 1056
+            }
+          ],
+          "url": "https://trello.com/1/cards/6900da7abdd75c6e6e2a8ff6/attachments/69010643d95b2db4d6ceaf29/download/image.png",
+          "pos": 140737488355328,
+          "fileName": "image.png"
+        }
+      ],
+      "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
+      "closed": false
+    },
+    "68ffcaa422a4a38344101be3": {
+      "name": "Sols Shop",
+      "desc": "Information coming soon…",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
         }
       ],
       "idAttachmentCover": "690f9b6c4449fee258fcbc88",
@@ -1196,39 +1196,19 @@
       "url": "https://trello.com/c/lPshZVDV/5-sols-shop",
       "closed": false
     },
-    "69012519d5c6d6f486d400a6": {
-      "name": "Roster Progression",
-      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68d",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
-          "color": "red",
-          "uses": 6
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
-      "closed": false
-    },
     "68ffc8aa60c932bb272919eb": {
       "name": "Ego: Conquest",
       "desc": "Information coming soon…",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68d",
+          "id": "6900e44b846214f33db124db",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
-          "color": "red",
-          "uses": 6
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
         }
       ],
       "idAttachmentCover": "690f9aecc444702075327dd6",
@@ -1307,19 +1287,39 @@
       "url": "https://trello.com/c/E2WYtRAw/3-ego-conquest",
       "closed": false
     },
+    "69012519d5c6d6f486d400a6": {
+      "name": "Roster Progression",
+      "desc": "Expand your roster as you play utilizing Sols. Straightforward, rewarding way to grow your lineup and experience what each character has to offer in the game.",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/6cLRK9z4/25-roster-progression",
+      "closed": false
+    },
     "6900dcd918b7ac4ac81b0e75": {
       "name": "Emotes",
       "desc": "Express yourself further with emotes! Show off against Egos in-game or dance with friends in the lobby.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68d",
+          "id": "6900e44b846214f33db124db",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
-          "color": "red",
-          "uses": 6
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1330,21 +1330,41 @@
     "6901241341ac99a7e079987c": {
       "name": "Taunts",
       "desc": "Sound cues usable for drawing attention away from other survivors - or simply just to tease the Ego.",
-      "idList": "68ffb548a089520807ddbb14",
+      "idList": "692090346a3685cff873e20b",
       "labels": [
         {
-          "id": "68ffb0f747088dd37de7a68d",
+          "id": "6900e44b846214f33db124db",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Delayed",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
-          "color": "red",
-          "uses": 6
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/zhrNC8kz/24-taunts",
+      "closed": false
+    },
+    "6901262fc6ec2ab38bed2b07": {
+      "name": "Private Server Support",
+      "desc": "",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
       "closed": false
     },
     "68ffc8bf0924d302f3309806": {
@@ -1359,7 +1379,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": "690e64ed33ce407e0d7b5760",
@@ -1459,7 +1479,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1479,7 +1499,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1499,7 +1519,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1519,7 +1539,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1539,7 +1559,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1559,32 +1579,12 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/DK8dpDgc/36-survivor-sk8r",
-      "closed": false
-    },
-    "6901262fc6ec2ab38bed2b07": {
-      "name": "Private Server Support",
-      "desc": "",
-      "idList": "68ffca9a28f29fdf39559bb1",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 18
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
       "closed": false
     },
     "691e2627d2b4c29dde695811": {
@@ -1599,7 +1599,7 @@
           "name": "Planned",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
           "color": "purple_light",
-          "uses": 18
+          "uses": 23
         }
       ],
       "idAttachmentCover": null,
@@ -1857,9 +1857,40 @@
       },
       "nodeId": "ari:cloud:trello::list/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a693"
     },
+    "692090346a3685cff873e20b": {
+      "id": "692090346a3685cff873e20b",
+      "name": "Q1 2026",
+      "closed": false,
+      "color": null,
+      "idBoard": "68ffb0f747088dd37de7a60e",
+      "pos": 140737488392192,
+      "subscribed": null,
+      "softLimit": null,
+      "type": null,
+      "datasource": {
+        "filter": false
+      },
+      "creationMethod": null,
+      "idOrganization": "5e5d3a4d7f295033c77bbff5",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/5e5d3a4d7f295033c77bbff5/692090346a3685cff873e20b"
+    },
     "68ffca9a28f29fdf39559bb1": {
       "id": "68ffca9a28f29fdf39559bb1",
-      "name": "January & Beyond",
+      "name": "Beyond",
       "closed": false,
       "color": null,
       "idBoard": "68ffb0f747088dd37de7a60e",
@@ -1898,10 +1929,6 @@
       "name": "On Track",
       "color": "green"
     },
-    "68ffb0f747088dd37de7a68d": {
-      "name": "Delayed",
-      "color": "red"
-    },
     "68ffb0f747088dd37de7a68c": {
       "name": "Running Behind",
       "color": "orange"
@@ -1909,6 +1936,10 @@
     "68ffb0f747088dd37de7a68f": {
       "name": "Shipped",
       "color": "blue"
+    },
+    "68ffb0f747088dd37de7a68d": {
+      "name": "Delayed",
+      "color": "red"
     }
   },
   "board": {
@@ -1916,5 +1947,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-21T15:55:21.189Z"
+  "lastCheck": "2025-11-21T16:17:53.022Z"
 }
