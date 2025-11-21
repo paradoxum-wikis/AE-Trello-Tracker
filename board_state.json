@@ -350,7 +350,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         },
         {
           "id": "68ffb0f747088dd37de7a68c",
@@ -394,26 +394,6 @@
       "url": "https://trello.com/c/gtfkf0GX/19-%F0%9F%8E%A8-labels",
       "closed": false
     },
-    "6900daa2d34c1fa8a4df15ef": {
-      "name": "Ragdolls",
-      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68c",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
-          "color": "orange",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
-      "closed": false
-    },
     "6900da9f51173f1b0acd0c54": {
       "name": "Inventory UX Improvements",
       "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
@@ -432,26 +412,6 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
-      "closed": false
-    },
-    "6900dab8a3eda9692a6493e4": {
-      "name": "News Feed",
-      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 23
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
       "closed": false
     },
     "6900df74a346c37c082c2f97": {
@@ -514,46 +474,6 @@
       "url": "https://trello.com/c/2ABotw1p/23-escape-hatches",
       "closed": false
     },
-    "6901a0e6b18da34a3656de66": {
-      "name": "Survivor Win Screen",
-      "desc": "",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 23
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/wZRPWryw/32-survivor-win-screen",
-      "closed": false
-    },
-    "6901a0eccd205fda43337692": {
-      "name": "Improved Ego Intro/Outro",
-      "desc": "",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 23
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
-      "closed": false
-    },
     "690254cd235c368d1cc041df": {
       "name": "Ego Transformation Animation",
       "desc": "Egos will play a transformation from their survivor form on spawn.",
@@ -606,7 +526,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": "6900e69b0468fe5212018f0e",
@@ -706,7 +626,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": "691ec41c7b4bbc2dc2cea325",
@@ -806,7 +726,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -846,7 +766,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": "69025c50b7da04567773d0ad",
@@ -946,7 +866,7 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
@@ -966,12 +886,32 @@
           "name": "On Track",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
           "color": "green",
-          "uses": 7
+          "uses": 8
         }
       ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
+      "closed": false
+    },
+    "6900dab8a3eda9692a6493e4": {
+      "name": "News Feed",
+      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
       "closed": false
     },
     "6900da9626f170f14545bbc2": {
@@ -1103,6 +1043,26 @@
         }
       ],
       "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
+      "closed": false
+    },
+    "69209154d2fb3e5109729012": {
+      "name": "Beta Launch 🚀",
+      "desc": "Information coming soon…",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/CNNnNPTT/38-beta-launch-%F0%9F%9A%80",
       "closed": false
     },
     "68ffcaa422a4a38344101be3": {
@@ -1365,6 +1325,66 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
+      "closed": false
+    },
+    "6901a0e6b18da34a3656de66": {
+      "name": "Survivor Win Screen",
+      "desc": "",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/wZRPWryw/32-survivor-win-screen",
+      "closed": false
+    },
+    "6901a0eccd205fda43337692": {
+      "name": "Improved Ego Intro/Outro",
+      "desc": "",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
+      "closed": false
+    },
+    "6900daa2d34c1fa8a4df15ef": {
+      "name": "Ragdolls",
+      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68c",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
+          "color": "orange",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
       "closed": false
     },
     "68ffc8bf0924d302f3309806": {
@@ -1947,5 +1967,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-21T16:17:53.022Z"
+  "lastCheck": "2025-11-21T16:40:05.052Z"
 }
