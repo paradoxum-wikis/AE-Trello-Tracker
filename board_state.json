@@ -714,26 +714,6 @@
       "url": "https://trello.com/c/sFm2SBVL/6-hack-minigame",
       "closed": false
     },
-    "6900da801bd7b0e82cee0c1a": {
-      "name": "Developer Credits Page",
-      "desc": "Credit for developers' work on the game.",
-      "idList": "68ffb54696bf79a49703f522",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 7
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
-      "closed": false
-    },
     "6900daaa8fca5e894c37443f": {
       "name": "Improved Mobile UX",
       "desc": "Meaningful improvements to the greater mobile experience by improving much of the UI / controls on phones.",
@@ -912,6 +892,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
+      "closed": false
+    },
+    "6900da801bd7b0e82cee0c1a": {
+      "name": "Developer Credits Page",
+      "desc": "Credit for developers' work on the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 7
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
       "closed": false
     },
     "6900da9626f170f14545bbc2": {
@@ -1967,5 +1967,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-11-21T19:22:13.746Z"
+  "lastCheck": "2025-11-21T19:30:16.194Z"
 }
