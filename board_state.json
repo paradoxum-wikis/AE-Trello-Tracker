@@ -454,6 +454,26 @@
       "url": "https://trello.com/c/J05M3gH6/22-map",
       "closed": false
     },
+    "6900e2e0d2eed3e08ab09164": {
+      "name": "Lag Compensation",
+      "desc": "",
+      "idList": "68ffc73110fc73f008ab2eec",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68f",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
+          "color": "blue",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
+      "closed": false
+    },
     "69012035b2d3a1dfe9a4fa1d": {
       "name": "Escape Hatches",
       "desc": "A last minute getaway for when a survivor has long outlived their teammates, offering a risky but rewarding alternative to traditional escapes.",
@@ -492,26 +512,6 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/y6HyKpCC/35-ego-transformation-animation",
-      "closed": false
-    },
-    "6900e2e0d2eed3e08ab09164": {
-      "name": "Lag Compensation",
-      "desc": "",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68f",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Shipped",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
-          "color": "blue",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
       "closed": false
     },
     "68ffc8a30a1f0039e00f398f": {
@@ -834,26 +834,6 @@
       "url": "https://trello.com/c/qSxNPzcV/2-ego-the-maw",
       "closed": false
     },
-    "690253a9de0ede3e37dc4f97": {
-      "name": "Chase Gamemode (Gamemode Rework)",
-      "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Gamemode:**\n\nA high-intensity mode where survivors must outlast the killer until time expires or the exit gates open.\n\n**Generator Nodes:**\n\n- Redo generator placement to be node-based rather than layout based; supports more randomized generator placements on maps.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/gcRfumSk/34-chase-gamemode-gamemode-rework",
-      "closed": false
-    },
     "6900e436218d9132b0599602": {
       "name": "Map Consumables",
       "desc": "Our first step in the long-term vision of consumables in Alter Ego; consumables are limited-use items that give players a temporary boost or advantage during matches.",
@@ -874,9 +854,9 @@
       "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
       "closed": false
     },
-    "6900dab8a3eda9692a6493e4": {
-      "name": "News Feed",
-      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
+    "690253a9de0ede3e37dc4f97": {
+      "name": "Chase Gamemode (Gamemode Rework)",
+      "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Gamemode:**\n\nA high-intensity mode where survivors must outlast the killer until time expires or the exit gates open.\n\n**Generator Nodes:**\n\n- Redo generator placement to be node-based rather than layout based; supports more randomized generator placements on maps.",
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
@@ -891,47 +871,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
-      "closed": false
-    },
-    "6900da801bd7b0e82cee0c1a": {
-      "name": "Developer Credits Page",
-      "desc": "Credit for developers' work on the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
-      "closed": false
-    },
-    "6900da9626f170f14545bbc2": {
-      "name": "Status Effect System Revamp",
-      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68c",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Running Behind",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
-          "color": "orange",
-          "uses": 6
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
+      "url": "https://trello.com/c/gcRfumSk/34-chase-gamemode-gamemode-rework",
       "closed": false
     },
     "6900da70a4966cd3483a161f": {
@@ -1043,6 +983,66 @@
         }
       ],
       "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
+      "closed": false
+    },
+    "6900da801bd7b0e82cee0c1a": {
+      "name": "Developer Credits Page",
+      "desc": "Credit for developers' work on the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
+      "closed": false
+    },
+    "6900da9626f170f14545bbc2": {
+      "name": "Status Effect System Revamp",
+      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68c",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Running Behind",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68c",
+          "color": "orange",
+          "uses": 6
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
+      "closed": false
+    },
+    "6900dab8a3eda9692a6493e4": {
+      "name": "News Feed",
+      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
       "closed": false
     },
     "69209154d2fb3e5109729012": {
@@ -1507,26 +1507,6 @@
       "url": "https://trello.com/c/crKytmk3/26-character-leveling",
       "closed": false
     },
-    "690126f23530a2b56ebf3ec1": {
-      "name": "Character Inventory",
-      "desc": "",
-      "idList": "68ffca9a28f29fdf39559bb1",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 23
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/HSJPF1Do/31-character-inventory",
-      "closed": false
-    },
     "690125d5133eade90c717fba": {
       "name": "More Survivors",
       "desc": "",
@@ -1545,6 +1525,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/31ukQpkv/27-more-survivors",
+      "closed": false
+    },
+    "690126f23530a2b56ebf3ec1": {
+      "name": "Character Inventory",
+      "desc": "",
+      "idList": "68ffca9a28f29fdf39559bb1",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 23
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/HSJPF1Do/31-character-inventory",
       "closed": false
     },
     "690125d8736f0b352751b217": {
@@ -1967,5 +1967,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-12-04T19:31:50.185Z"
+  "lastCheck": "2025-12-04T19:43:00.990Z"
 }
