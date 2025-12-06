@@ -368,7 +368,7 @@
           "name": "Delayed",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
           "color": "red",
-          "uses": 1
+          "uses": 2
         },
         {
           "id": "68ffb0f747088dd37de7a68f",
@@ -420,13 +420,13 @@
       "idList": "68ffc73110fc73f008ab2eec",
       "labels": [
         {
-          "id": "6900e44b846214f33db124db",
+          "id": "68ffb0f747088dd37de7a68d",
           "idBoard": "68ffb0f747088dd37de7a60e",
           "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
+          "name": "Delayed",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68d",
+          "color": "red",
+          "uses": 2
         }
       ],
       "idAttachmentCover": null,
@@ -1156,6 +1156,26 @@
       "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
       "closed": false
     },
+    "6900da70a4966cd3483a161f": {
+      "name": "Console Compatibility",
+      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 30
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
+      "closed": false
+    },
     "6901a0e6b18da34a3656de66": {
       "name": "Survivor Win Screen",
       "desc": "",
@@ -1196,6 +1216,26 @@
       "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
       "closed": false
     },
+    "6900da9f51173f1b0acd0c54": {
+      "name": "Inventory UX Improvements",
+      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 30
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
+      "closed": false
+    },
     "6900daa2d34c1fa8a4df15ef": {
       "name": "Ragdolls",
       "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
@@ -1214,46 +1254,6 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
-      "closed": false
-    },
-    "6900da70a4966cd3483a161f": {
-      "name": "Console Compatibility",
-      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
-      "closed": false
-    },
-    "6900e57084a1f1c0054f22af": {
-      "name": "Map: ???",
-      "desc": "Information coming soon…",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/J05M3gH6/22-map",
       "closed": false
     },
     "6900df74a346c37c082c2f97": {
@@ -1276,9 +1276,9 @@
       "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
       "closed": false
     },
-    "6900da9f51173f1b0acd0c54": {
-      "name": "Inventory UX Improvements",
-      "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
+    "6900e57084a1f1c0054f22af": {
+      "name": "Map: ???",
+      "desc": "Information coming soon…",
       "idList": "692090346a3685cff873e20b",
       "labels": [
         {
@@ -1293,7 +1293,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
+      "url": "https://trello.com/c/J05M3gH6/22-map",
       "closed": false
     },
     "68ffc8aa60c932bb272919eb": {
@@ -1528,7 +1528,7 @@
       "closed": false
     },
     "6934a4a1136913d8b5d26bef": {
-      "name": "More Maps",
+      "name": "Map: ???",
       "desc": "",
       "idList": "68ffca9a28f29fdf39559bb1",
       "labels": [
@@ -1544,7 +1544,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/oUCJIO7B/43-more-maps",
+      "url": "https://trello.com/c/oUCJIO7B/43-map",
       "closed": false
     },
     "690126f23530a2b56ebf3ec1": {
@@ -1631,7 +1631,17 @@
       "name": "Map Voting",
       "desc": "",
       "idList": "68ffca9a28f29fdf39559bb1",
-      "labels": [],
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 30
+        }
+      ],
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/g36j99MQ/44-map-voting",
@@ -2094,13 +2104,13 @@
       "name": "Shipped",
       "color": "blue"
     },
-    "68ffb0f747088dd37de7a68c": {
-      "name": "Running Behind",
-      "color": "orange"
-    },
     "68ffb0f747088dd37de7a68d": {
       "name": "Delayed",
       "color": "red"
+    },
+    "68ffb0f747088dd37de7a68c": {
+      "name": "Running Behind",
+      "color": "orange"
     }
   },
   "board": {
@@ -2108,5 +2118,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-12-06T21:49:08.319Z"
+  "lastCheck": "2025-12-06T21:56:17.538Z"
 }
