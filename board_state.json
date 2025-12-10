@@ -394,26 +394,6 @@
       "url": "https://trello.com/c/gtfkf0GX/19-%F0%9F%8E%A8-labels",
       "closed": false
     },
-    "6900e2e0d2eed3e08ab09164": {
-      "name": "Lag Compensation",
-      "desc": "",
-      "idList": "68ffc73110fc73f008ab2eec",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68f",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Shipped",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
-          "color": "blue",
-          "uses": 5
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
-      "closed": false
-    },
     "69012035b2d3a1dfe9a4fa1d": {
       "name": "Escape Hatches",
       "desc": "A last minute getaway for when a survivor has long outlived their teammates, offering a risky but rewarding alternative to traditional escapes.",
@@ -432,6 +412,26 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/2ABotw1p/23-escape-hatches",
+      "closed": false
+    },
+    "6900e2e0d2eed3e08ab09164": {
+      "name": "Lag Compensation",
+      "desc": "",
+      "idList": "68ffc73110fc73f008ab2eec",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68f",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Shipped",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68f",
+          "color": "blue",
+          "uses": 5
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/iCDmQcEQ/20-lag-compensation",
       "closed": false
     },
     "68ffc8a30a1f0039e00f398f": {
@@ -674,6 +674,26 @@
       "url": "https://trello.com/c/u9bBpSX7/39-free-to-play-weekend-%F0%9F%9A%80",
       "closed": false
     },
+    "690253a9de0ede3e37dc4f97": {
+      "name": "Chase Gamemode (Gamemode Rework)",
+      "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Gamemode:**\n\nA high-intensity mode where survivors must outlast the killer until time expires or the exit gates open.\n\n**Generator Nodes:**\n\n- Redo generator placement to be node-based rather than layout based; supports more randomized generator placements on maps.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/gcRfumSk/34-chase-gamemode-gamemode-rework",
+      "closed": false
+    },
     "6900e436218d9132b0599602": {
       "name": "Map Consumables",
       "desc": "Our first step in the long-term vision of consumables in Alter Ego; consumables are limited-use items that give players a temporary boost or advantage during matches.",
@@ -694,9 +714,9 @@
       "url": "https://trello.com/c/KMbPw06c/21-map-consumables",
       "closed": false
     },
-    "690253a9de0ede3e37dc4f97": {
-      "name": "Chase Gamemode (Gamemode Rework)",
-      "desc": "This is a fundamental gameplay change that separates the current core game mode into Chase and Objective game modes. Objective will be released at a later date due to a lack of essential features to make Objective’s gameplay balanced.\n\n**Gamemode:**\n\nA high-intensity mode where survivors must outlast the killer until time expires or the exit gates open.\n\n**Generator Nodes:**\n\n- Redo generator placement to be node-based rather than layout based; supports more randomized generator placements on maps.",
+    "6900dab8a3eda9692a6493e4": {
+      "name": "News Feed",
+      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
       "idList": "68ffb548a089520807ddbb14",
       "labels": [
         {
@@ -711,7 +731,47 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/gcRfumSk/34-chase-gamemode-gamemode-rework",
+      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
+      "closed": false
+    },
+    "6900da801bd7b0e82cee0c1a": {
+      "name": "Developer Credits Page",
+      "desc": "Credit for developers' work on the game.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
+      "closed": false
+    },
+    "6900da9626f170f14545bbc2": {
+      "name": "Status Effect System Revamp",
+      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
+      "idList": "68ffb548a089520807ddbb14",
+      "labels": [
+        {
+          "id": "68ffb0f747088dd37de7a68a",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "On Track",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
+          "color": "green",
+          "uses": 8
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
       "closed": false
     },
     "6900da7abdd75c6e6e2a8ff6": {
@@ -803,66 +863,6 @@
         }
       ],
       "url": "https://trello.com/c/gdgMW60B/8-lobby-npcs",
-      "closed": false
-    },
-    "6900da801bd7b0e82cee0c1a": {
-      "name": "Developer Credits Page",
-      "desc": "Credit for developers' work on the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/haSL1bZ1/9-developer-credits-page",
-      "closed": false
-    },
-    "6900da9626f170f14545bbc2": {
-      "name": "Status Effect System Revamp",
-      "desc": "A backend rewrite of our Status Effects system to empower us to make cooler characters in the future.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/mesJTazm/10-status-effect-system-revamp",
-      "closed": false
-    },
-    "6900dab8a3eda9692a6493e4": {
-      "name": "News Feed",
-      "desc": "Easy way to stay up-to-date with the latest updates, directly in the game.",
-      "idList": "68ffb548a089520807ddbb14",
-      "labels": [
-        {
-          "id": "68ffb0f747088dd37de7a68a",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "On Track",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68ffb0f747088dd37de7a68a",
-          "color": "green",
-          "uses": 8
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/Op4mXKc0/14-news-feed",
       "closed": false
     },
     "69209154d2fb3e5109729012": {
@@ -1156,26 +1156,6 @@
       "url": "https://trello.com/c/HrjDNPDm/30-private-server-support",
       "closed": false
     },
-    "6900da70a4966cd3483a161f": {
-      "name": "Console Compatibility",
-      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
-      "closed": false
-    },
     "6901a0e6b18da34a3656de66": {
       "name": "Survivor Win Screen",
       "desc": "",
@@ -1216,6 +1196,46 @@
       "url": "https://trello.com/c/oQVo6OaN/33-improved-ego-intro-outro",
       "closed": false
     },
+    "6900da70a4966cd3483a161f": {
+      "name": "Console Compatibility",
+      "desc": "Expanded support for Roblox on Playstation / Xbox. Controls + UX will be optimized for a TV setting.",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 30
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/XjnDHAdF/7-console-compatibility",
+      "closed": false
+    },
+    "6900e57084a1f1c0054f22af": {
+      "name": "Map: ???",
+      "desc": "Information coming soon…",
+      "idList": "692090346a3685cff873e20b",
+      "labels": [
+        {
+          "id": "6900e44b846214f33db124db",
+          "idBoard": "68ffb0f747088dd37de7a60e",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Planned",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
+          "color": "purple_light",
+          "uses": 30
+        }
+      ],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/J05M3gH6/22-map",
+      "closed": false
+    },
     "6900da9f51173f1b0acd0c54": {
       "name": "Inventory UX Improvements",
       "desc": "A second pass at the inventory UI with clearer support for future additions, such as a section that clearly displays player’s Sols, as well as more text labels to help navigating the menu easier.",
@@ -1234,26 +1254,6 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/kvcOWbVn/11-inventory-ux-improvements",
-      "closed": false
-    },
-    "6900daa2d34c1fa8a4df15ef": {
-      "name": "Ragdolls",
-      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
-      "idList": "692090346a3685cff873e20b",
-      "labels": [
-        {
-          "id": "6900e44b846214f33db124db",
-          "idBoard": "68ffb0f747088dd37de7a60e",
-          "idOrganization": "5e5d3a4d7f295033c77bbff5",
-          "name": "Planned",
-          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/6900e44b846214f33db124db",
-          "color": "purple_light",
-          "uses": 30
-        }
-      ],
-      "idAttachmentCover": null,
-      "attachments": [],
-      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
       "closed": false
     },
     "6900df74a346c37c082c2f97": {
@@ -1276,9 +1276,9 @@
       "url": "https://trello.com/c/jzA1cBaC/17-tooltips",
       "closed": false
     },
-    "6900e57084a1f1c0054f22af": {
-      "name": "Map: ???",
-      "desc": "Information coming soon…",
+    "6900daa2d34c1fa8a4df15ef": {
+      "name": "Ragdolls",
+      "desc": "Ragdoll physics for characters to make world interactivity feel more dynamic and immersive. Certain abilities will make players ragdoll, with their character movements interacting naturally in the environment.",
       "idList": "692090346a3685cff873e20b",
       "labels": [
         {
@@ -1293,7 +1293,7 @@
       ],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/J05M3gH6/22-map",
+      "url": "https://trello.com/c/3eZFRIB3/12-ragdolls",
       "closed": false
     },
     "68ffc8aa60c932bb272919eb": {
@@ -2118,5 +2118,5 @@
     "desc": "",
     "url": "https://trello.com/b/XnZ9XUoc/alter-ego-public-roadmap"
   },
-  "lastCheck": "2025-12-10T11:59:43.869Z"
+  "lastCheck": "2025-12-10T12:54:57.394Z"
 }
